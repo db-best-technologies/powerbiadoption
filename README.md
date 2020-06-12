@@ -14,7 +14,6 @@ This is a DB Best branded version of the Microsoft version that we'll modify ove
 - **Jandee Richards** - DB Best Technologies - BIAA Practice Director
   - Email: [jandee@dbbest.com](mailto:jandee@dbbest.com)
   - LinkedIn: [/in/jandee/](https://www.linkedin.com/in/jandee/)
-  - Twitter: [@thepowerbiqueen](https://twitter.com/thepowerbiqueen)
 
 - **Bill Ramos**, DB Best Technologies - Chief Technology Storyteller - Project Architect
   - Email: [bill@dbbest.com](mailto:bill@dbbest.com)  
